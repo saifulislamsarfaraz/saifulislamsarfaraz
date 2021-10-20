@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there, I'm Saiful -  [saifulislamsarfaraz.github.io][website] 
+### Hi there, I'm Saiful -  [saifulislamsarfaraz][website] 
 
 ### Connect with me:
 
@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+[website]: https://saifulislamsarfaraz.github.io
+[twitter]: https://twitter.com/saiful_sarfaraz
+[youtube]: https://youtube.com/saifulislamsarfaraz
+[instagram]:
