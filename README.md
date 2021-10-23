@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- I'm [saifulislamsarfaraz][website] 
+I'm [saifulislamsarfaraz][website] 
 [website]:https://saifulislamsarfaraz.github.io
 
