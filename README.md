@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md. Saiful Islam Sarfaraz
 
-I'm a passionate AI/ML engineer and researcher with experience building intelligent systems in bioinformatics, computer vision, and natural language processing. Currently working at NeuroGen Healthcare, contributing to advanced genomic analysis tools and AI platforms.
+I'm a passionate AI/ML engineer and researcher with experience building intelligent systems in bioinformatics, computer vision, and natural language processing. 
 
 ---
 
