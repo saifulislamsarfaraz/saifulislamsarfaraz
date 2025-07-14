@@ -1,20 +1,50 @@
-### Hi there 👋
+# 👋 Hi, I'm Md. Saiful Islam Sarfaraz
 
-<!--
-**saifulislamsarfaraz/saifulislamsarfaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate AI/ML engineer and researcher with experience building intelligent systems in bioinformatics, computer vision, and natural language processing. Currently working at NeuroGen Healthcare, contributing to advanced genomic analysis tools and AI platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm [saifulislamsarfaraz][website]
+## 🔬 Research Interests
 
-[website]:https://saifulislamsarfaraz.github.io
+- Bioinformatics & Genomic AI  
+- Machine Learning & Deep Learning  
+- Natural Language Processing (NLP)  
+- Large Language Models (LLMs), RAG  
+- Medical Imaging  
+- Cybersecurity & Blockchain
 
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, C++, JavaScript, SQL, PHP  
+**Frameworks & Tools:** FastAPI, Flask, Django, Laravel, PaddleOCR, OpenCV, PyTorch, Scikit-learn, ChromaDB, Docker, Git
+
+---
+
+## 📌 Highlighted Projects
+
+- [🧬 Genomics Intelligence (LLM + RAG)](https://github.com/saifulislamsarfaraz/HorizonIntelligence.git)  
+  AI assistant for genomic variant interpretation using RAG and biomedical embeddings.
+
+- [🧾 NID OCR System](https://github.com/saifulislamsarfaraz/NIDOCR)  
+  OCR system for extracting structured data from Bangladeshi NID cards.
+
+- [🧹 Real-Time Garbage Detection](https://github.com/saifulislamsarfaraz/Real-time-garbage-collector-using-resnet152)  
+  Garbage classification using ResNet152 and Flask for smart city applications.
+
+- [🏨 Hotel Management via Face Recognition](https://github.com/saifulislamsarfaraz/The-hotel-management-system-Covid-19)
+
+- [🔐 Blockchain-based Certificate Verification](https://github.com/saifulislamsarfaraz/Education-Cert-Verification-Blockchain)
+
+
+
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/md-saiful-283000181/)
+- 🌐 [Personal Website](https://saifulislamsarfaraz.github.io)
+- 📧 saifulislamsarfaraz@gmail.com
+
+---
+
+⭐️ *Feel free to explore my repositories and reach out for collaboration.*
