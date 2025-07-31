@@ -17,7 +17,7 @@ I'm a passionate AI/ML engineer and researcher with experience building intellig
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, C++, JavaScript, SQL, PHP  
+**Languages:** Python, Java, C++, JavaScript, SQL, PHP  
 **Frameworks & Tools:** Pytorch, Tensorflow, FastAPI, Flask, Django, Laravel, PaddleOCR, OpenCV, PyTorch, Scikit-learn, ChromaDB, Docker, Git
 
 ---
