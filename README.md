@@ -35,8 +35,6 @@ I'm a passionate AI/ML engineer and researcher with experience building intellig
 
 - [🏨 Hotel Management via Face Recognition](https://github.com/saifulislamsarfaraz/The-hotel-management-system-Covid-19)
 
-- [🔐 Blockchain-based Certificate Verification](https://github.com/saifulislamsarfaraz/Education-Cert-Verification-Blockchain)
-
 
 
 ## 📫 Connect with Me
