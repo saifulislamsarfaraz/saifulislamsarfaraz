@@ -22,21 +22,6 @@ I'm a passionate AI/ML engineer and researcher with experience building intellig
 
 ---
 
-## 📌 Highlighted Projects
-
-- [🧬 Genomics Intelligence (LLM + RAG)](https://github.com/saifulislamsarfaraz/HorizonIntelligence.git)  
-  AI assistant for genomic variant interpretation using RAG and biomedical embeddings.
-
-- [🧾 NID OCR System](https://github.com/saifulislamsarfaraz/NIDOCR)  
-  OCR system for extracting structured data from Bangladeshi NID cards.
-
-- [🧹 Real-Time Garbage Detection](https://github.com/saifulislamsarfaraz/Real-time-garbage-collector-using-resnet152)  
-  Garbage classification using ResNet152 and Flask for smart city applications.
-
-- [🏨 Hotel Management via Face Recognition](https://github.com/saifulislamsarfaraz/The-hotel-management-system-Covid-19)
-
-
-
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/md-saiful-283000181/)
