@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Md. Saiful Islam Sarfaraz
+# 👋 Hi, I'm Md. Saiful 
 
-I'm a passionate AI/ML engineer and researcher with experience building intelligent systems in bioinformatics, computer vision, and natural language processing. 
+# Saiful Islam Sarfaraz
+
+I'm a passionate AI/ML engineer and researcher with experience building intelligent systems in computational bioinformatics, computer vision, and natural language processing. 
 
 ---
 
