@@ -6,7 +6,7 @@ I'm a passionate AI/ML engineer and researcher with experience building intellig
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Research & Development
 
 - Bioinformatics & Genomic AI  
 - Machine Learning & Deep Learning  
@@ -20,7 +20,7 @@ I'm a passionate AI/ML engineer and researcher with experience building intellig
 ## 🛠 Tech Stack
 
 **Languages:** Python, Java, C++, JavaScript, SQL, PHP  
-**Frameworks & Tools:** Pytorch, Tensorflow, FastAPI, Flask, Django, Laravel, PaddleOCR, OpenCV, PyTorch, Scikit-learn, ChromaDB, Docker, Git
+**Frameworks & Tools:** SpringBoot, FastAPI, Flask, Django, Laravel, PaddleOCR, OpenCV, Pytorch, Tensorflow, Scikit-learn, LangGraph, LangChain, HuggingFace, FIASS, ChromaDB, Docker, Git
 
 ---
 
